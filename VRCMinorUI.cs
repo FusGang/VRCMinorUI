@@ -15,7 +15,7 @@ using UnityEngine;
 
 namespace VRCMinorUI
 {
-    [VRCModInfo("VRCMinorUI", "0.1.0", "AtiLion")]
+    [VRCModInfo("VRCMinorUI", "0.1.1", "AtiLion")]
     internal class VRCMinorUI : VRCMod
     {
         #region Config Variables
